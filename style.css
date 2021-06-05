@@ -69,6 +69,7 @@ nav ul li a:hover{
 }
 
 .content {
+    width: 50%;
     position: relative;
 }
 
@@ -123,7 +124,7 @@ p{
     margin-top: 80px;
     margin-left: 50px;
     text-decoration: none;
-    font-size: 33px;
+    font-size: 45px;
 }
 .fa{
     color: var(--secondry-color);
@@ -139,8 +140,8 @@ p{
     width: 45%;
     height: 570px;
     bottom: 0;
-    margin-bottom: -154px;
-    margin-left: 710px;
+    margin-bottom: 150px;
+    margin-left: 640px;
 
 }
 
