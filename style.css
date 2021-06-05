@@ -5,6 +5,11 @@
     --secondry-color: #1b1b1b;
 }
 
+.dark-theme{
+    --primary-color: #1b1b1b;
+    --secondry-color: #fff;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -120,4 +125,22 @@ p{
     text-decoration: none;
     font-size: 33px;
 }
-.fa[]
+.fa{
+    color: var(--secondry-color);
+    margin-left: 10px;
+
+}
+.fa:hover{
+    color: #ff6401;
+}
+
+.image{
+    position: absolute;
+    width: 45%;
+    height: 570px;
+    bottom: 0;
+    margin-bottom: -154px;
+    margin-left: 710px;
+
+}
+
