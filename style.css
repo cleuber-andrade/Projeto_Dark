@@ -126,12 +126,12 @@ p{
     text-decoration: none;
     font-size: 45px;
 }
-.fa{
+.fab{
     color: var(--secondry-color);
     margin-left: 10px;
 
 }
-.fa:hover{
+.fab:hover{
     color: #ff6401;
 }
 
