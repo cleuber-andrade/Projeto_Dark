@@ -18,7 +18,7 @@ Praticar conhecimentos obre HTML5, CSS3 e JavaScript
 
 ## :pager: Tela principal da Site UNES 
 
- <img src="img/UNES.jpg" alt="Tela Principal">
+ <img src="" alt="Tela Principal">
 
  # 👷 Como rodar
 
