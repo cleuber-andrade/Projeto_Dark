@@ -15,6 +15,14 @@ Praticar conhecimentos obre HTML5, CSS3 e JavaScript
 -Aprimorar os conhecimentos em HTML e CSS;
 
 ```
+## :wrench: Ferramentas Utilizadas
+
+```bash
+-HTML 5 
+-CSS 3
+-JavaScript
+
+```
 
 ## :pager: Tela principal da Site Dark
 
