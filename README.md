@@ -27,6 +27,8 @@ Praticar conhecimentos obre HTML5, CSS3 e JavaScript
 ## :pager: Tela principal da Site Dark
 
  <img src="img/darktheme.jpg" alt="Tela Principal">
+ 
+
 
  # 👷 Como rodar
 
