@@ -28,7 +28,7 @@ Praticar conhecimentos obre HTML5, CSS3 e JavaScript
 
  <img src="img/darktheme.jpg" alt="Tela Principal">
  
-## 💻 Link para acessar site no GitHubPages
+## :globe_with_meridians: Link para acessar site no GitHubPages
 
 Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/Projeto_Dark/" target="_blank">Clique aqui</a>
 
