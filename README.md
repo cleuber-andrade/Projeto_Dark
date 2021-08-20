@@ -33,7 +33,7 @@ Praticar conhecimentos obre HTML5, CSS3 e JavaScript
 Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/Projeto_Dark/" target="_blank">Clique aqui</a>
 
 
- # 👷 Como rodar
+## 👷 Como rodar
 
 ```bash
 # Clonar o repositório
